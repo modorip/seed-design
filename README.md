@@ -9,7 +9,7 @@
 
 - 토큰: 컬러·타입·라운드·모션
 - 컴포넌트: Button · Badge · Chip · Avatar · IconButton · Card · ListRow · Progress
-- 패턴: AppHeader · TabBar · BottomSheet · EmptyState
+- 패턴: AppHeader · TabBar · SegmentedControl · BottomSheet · EmptyState · PresetCard · CourseMap
 - 아이콘: Lucide stroke 스타일 자체 셋
 - 자산: Pretendard / Wanted Sans 폰트 라이센스 안내, 한국 17광역 SVG path
 

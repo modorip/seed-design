@@ -8,6 +8,16 @@
 
 마지막 3개(`accent`, `heritage`, `festival`)는 4계열 도메인 컬러용.
 
+### 메달 톤 (특수)
+
+| 톤 | 배경 | 텍스트 | 용도 |
+|---|---|---|---|
+| `gold` | `#FFD700` | `#7A5C00` | 인기 프리셋 Top 1 |
+| `silver` | `#C0C0C0` | `#4A4A4A` | 인기 프리셋 Top 2 |
+| `bronze` | `#CD7F32` | `#5A3A1A` | 인기 프리셋 Top 3 |
+
+메달 톤은 **변형 `solid` 전용**. subtle/outline 변형 없음. 사용처는 [PresetCard](../patterns/PresetCard.md) 참조.
+
 ## 변형
 
 | variant | 모양 |
