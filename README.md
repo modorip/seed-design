@@ -1,11 +1,11 @@
 # seed-design
 
-> 여기여기 (Yeogi Yeogi) 의 디자인 시스템.
+> 모두립 (modorip) 의 디자인 시스템.
 > 토스 TDS, 당근 seed-design 운영 사례를 참고해 코드 레포에서 분리된 public 저장소로 운영합니다.
 
 ## 무엇인가요
 
-여기여기 앱은 한국관광공사 OpenAPI 기반의 게이미피케이션 여행 도감 앱입니다. 이 저장소는 그 앱이 사용하는 디자인 토큰·컴포넌트·패턴의 **단일 원천(Single Source of Truth)** 입니다.
+모두립 앱은 한국관광공사 OpenAPI 기반의 게이미피케이션 여행 도감 앱입니다. 이 저장소는 그 앱이 사용하는 디자인 토큰·컴포넌트·패턴의 **단일 원천(Single Source of Truth)** 입니다.
 
 - 토큰: 컬러·타입·라운드·모션
 - 컴포넌트: Button · Badge · Chip · Avatar · IconButton · Card · ListRow · Progress
@@ -37,7 +37,7 @@ seed-design/
 | Phase | 산출물 |
 |---|---|
 | **0 (현재)** | 마크다운 명세 + 참고 토큰 |
-| 1 | `@yeogi/seed-design` npm 패키지 (React + TypeScript) |
+| 1 | `@modorip/seed-design` npm 패키지 (React + TypeScript) |
 | 2 | Figma 라이브러리 동기화 |
 | 3 | 외부 컨트리뷰션 가이드 정착 |
 
@@ -49,4 +49,4 @@ MIT. 자세한 내용은 [LICENSE](./LICENSE).
 
 ## 기반
 
-이 디자인 시스템은 **Wanted Design System** ([wanted-design.com](https://wanted-design.com)) 의 토큰·컴포넌트 구조를 기반으로 여기여기의 도메인(도감·발견·광역 등)에 맞춰 확장한 결과물입니다. 사용된 폰트와 라이브러리의 원 라이센스는 각 디렉터리의 안내를 따릅니다.
+이 디자인 시스템은 **Wanted Design System** ([wanted-design.com](https://wanted-design.com)) 의 토큰·컴포넌트 구조를 기반으로 모두립의 도메인(도감·발견·광역 등)에 맞춰 확장한 결과물입니다. 사용된 폰트와 라이브러리의 원 라이센스는 각 디렉터리의 안내를 따릅니다.
